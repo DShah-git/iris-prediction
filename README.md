@@ -15,3 +15,9 @@ This is a web application that uses machine learning from `TensorFlow` to predic
 
 1. Run the following command `npm install`.
 2. Run the following command `npm start`.
+
+
+<h1> Video </h1>
+See how the applicaiton works.
+
+[![Iris](https://yt-embed.herokuapp.com/embed?v=_wfqdq080Fo)](https://www.youtube.com/watch?v=_wfqdq080Fo "Iris")
